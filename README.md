@@ -7,12 +7,13 @@
 
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Eduardo-751&hide_border=true&theme=one-dark)
 <br></br>
-![Eduardo-751 github stats](https://github-readme-stats.vercel.app/api?username=Eduardo-751&show_icons=true&theme=onedark&include_all_commits=true) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eduardo-751&theme=onedark)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Eduardo-751&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<br></br>
+![Eduardo-751 github stats](https://github-readme-stats.vercel.app/api?username=Eduardo-751&show_icons=true&theme=onedark) 
+<br></br>
+![Eduardo-751 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eduardo-751&theme=onedark)
 <br></br>
 ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-751&show_icons=true&theme=onedark&layout=compact)
-<br></br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Eduardo-751&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 </div>
 
@@ -45,7 +46,7 @@
   <a align="right" href="https://github.com/Eduardo-751/Beecrowd" title="Beecrowd"><img align="right" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-751&repo=Beecrowd&theme=onedark&border_color=61dafb&border_radius=10"></a>
 
 </div>
-<br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 <div align="center"><br></br>
 
 ## 📫 Connect with me 📫
