@@ -12,6 +12,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: Eduardo-751/metrics@latest
+      - uses: Eduardo-751/Eduardo-751
         with:
           token: ${{ secrets.METRICS_TOKEN }}
