@@ -6,34 +6,29 @@
 ## ⚡ GitHub Profile Stats ⚡ 
 
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Eduardo-751&hide_border=true&theme=one-dark)
-<br></br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Eduardo-751&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<br></br>
-![Eduardo-751 github stats](https://github-readme-stats.vercel.app/api?username=Eduardo-751&show_icons=true&theme=onedark) 
-<br></br>
-![Eduardo-751 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eduardo-751&theme=onedark)
-<br></br>
+<br/>
+
 ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-751&show_icons=true&theme=onedark&layout=compact)
+<br/>
 
+<details> 
+<summary>💻 GitHub Profile Stats</summary>
+<br/>
+
+<a>
+
+  ![Eduardo-751 github stats](https://github-readme-stats.vercel.app/api?username=Eduardo-751&show_icons=true&theme=onedark) 
+  ![Eduardo-751 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eduardo-751&show_icons=true&theme=onedark)
+  
+</a>
+
+</details>
+<br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Eduardo-751&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
-<div align="center"><br></br>
-
-## 💪 Contributions 💪
-
- ![Snake animation](https://github.com/Eduardo-751/Eduardo-751/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
-<div align="center"><br></br>
-
-## 🔥 Languages and Tools 🔥
-
-<p> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
-
-</div>
-
-<div align="center"><br></br>
+<div align="center"><br/>
 
 ## 👨‍💻 Repositories 👨‍💻
 
@@ -47,7 +42,23 @@
 
 </div>
 <br/><br/><br/><br/><br/><br/>
-<div align="center"><br></br>
+<div align="center"><br/>
+
+## 💪 Contributions 💪
+
+ ![Snake animation](https://github.com/Eduardo-751/Eduardo-751/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+<div align="center"><br/>
+
+## 🔥 Languages and Tools 🔥
+
+<p> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+
+</div>
+
+<div align="center"><br/>
 
 ## 📫 Connect with me 📫
 
