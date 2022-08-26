@@ -8,7 +8,7 @@
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Eduardo-751&hide_border=true&theme=one-dark)
 <br/>
 
-![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-751&show_icons=true&theme=onedark&layout=compact)
+![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-751&hide_border=true&show_icons=true&theme=onedark&layout=compact)
 <br/>
 
 <details> 
@@ -17,28 +17,28 @@
 
 <a>
 
-  ![Eduardo-751 github stats](https://github-readme-stats.vercel.app/api?username=Eduardo-751&show_icons=true&theme=onedark) 
-  ![Eduardo-751 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eduardo-751&show_icons=true&theme=onedark)
+  ![Eduardo-751 github stats](https://github-readme-stats.vercel.app/api?username=Eduardo-751&hide_border=true&show_icons=true&theme=onedark) 
+  ![Eduardo-751 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eduardo-751&hide_border=true&show_icons=true&theme=onedark)
   
 </a>
 
 </details>
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Eduardo-751&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Eduardo-751&no-frame=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 <div align="center"><br/>
 
 ## 👨‍💻 Repositories 👨‍💻
 
-  <a align="left" href="https://github.com/Eduardo-751/Pokemon_Adventure" title="Pokemon Adventure"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-751&repo=Pokemon_Adventure&theme=onedark&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Eduardo-751/FacensSales" title="FacensSales"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-751&repo=FacensSales&theme=onedark&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Eduardo-751/Pokemon_Adventure" title="Pokemon Adventure"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-751&repo=Pokemon_Adventure&theme=onedark&hide_border=true&border_radius=10"></a>
+  <a align="right" href="https://github.com/Eduardo-751/FacensSales" title="FacensSales"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-751&repo=FacensSales&theme=onedark&hide_border=true&border_radius=10"></a>
   
 <br/><br/><br/><br/><br/><br/>
 
-  <a align="left" href="https://github.com/Eduardo-751/HackerRank" title="HackerRank"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-751&repo=HackerRank&theme=onedark&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Eduardo-751/Beecrowd" title="Beecrowd"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-751&repo=Beecrowd&theme=onedark&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Eduardo-751/HackerRank" title="HackerRank"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-751&repo=HackerRank&theme=onedark&hide_border=true&border_radius=10"></a>
+  <a align="right" href="https://github.com/Eduardo-751/Beecrowd" title="Beecrowd"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-751&repo=Beecrowd&theme=onedark&hide_border=true&border_radius=10"></a>
 
 </div>
 <br/><br/><br/><br/><br/><br/>
