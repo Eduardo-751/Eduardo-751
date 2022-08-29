@@ -25,7 +25,7 @@
 </details>
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Eduardo-751&no-frame=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Eduardo-751&no-frame=true&theme=onedark&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 <div align="center"><br/>
