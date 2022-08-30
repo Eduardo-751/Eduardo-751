@@ -5,12 +5,12 @@
 
 ## ⚡ GitHub Profile Stats ⚡ 
 
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Eduardo-751&hide_border=true&theme=one-dark)
+[![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Eduardo-751&hide_border=true&theme=one-dark)](https://github.com/Eduardo-751)
 <br/><br/>
 
 |My github statistics|My languages|Streaks|
 |-|-|-|
-|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=Eduardo-751&hide_border=true&show_icons=true&theme=onedark&layout=compact&hide_title=true)](https://github.com/Cyebukayire)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-751&hide_border=true&show_icons=true&theme=onedark&layout=compact)](https://github.com/Cyebukayire)|![Cyebukayire](https://github-readme-streak-stats.herokuapp.com/?user=Eduardo-751&hide_border=true&show_icons=true&theme=onedark)
+|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=Eduardo-751&hide_border=true&show_icons=true&theme=onedark&layout=compact&hide_title=true)](https://github.com/Eduardo-751)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-751&hide_border=true&show_icons=true&theme=onedark&layout=compact)](https://github.com/Eduardo-751)|[![Eduardo-751](https://github-readme-streak-stats.herokuapp.com/?user=Eduardo-751&hide_border=true&show_icons=true&theme=onedark)](https://github.com/Eduardo-751)
 
 <br/><br/>
 
