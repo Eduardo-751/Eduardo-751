@@ -26,8 +26,8 @@
   
 <br/><br/><br/><br/><br/><br/>
 
-  <a align="left" href="https://github.com/Eduardo-751/HackerRank" title="HackerRank"><img align="left" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-751&repo=HackerRank&theme=onedark&hide_border=true&border_radius=10"></a>
-  <a align="right" href="https://github.com/Eduardo-751/Beecrowd" title="Beecrowd"><img align="right" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-751&repo=Beecrowd&theme=onedark&hide_border=true&border_radius=10"></a>
+  <a align="left" href="https://github.com/Eduardo-751/HackerRank" title="HackerRank"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-751&repo=HackerRank&theme=onedark&hide_border=true&border_radius=10"></a>
+  <a align="right" href="https://github.com/Eduardo-751/Beecrowd" title="Beecrowd"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-751&repo=Beecrowd&theme=onedark&hide_border=true&border_radius=10"></a>
 
 </div>
 <br/><br/><br/><br/><br/><br/>
