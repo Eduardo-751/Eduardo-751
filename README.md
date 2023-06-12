@@ -35,7 +35,7 @@
   
 <h2 align="center">✨ Contribution ✨</h2>
 <br><div align=center>
-  <img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
+  <img src="/assets/github-contribution-grid-snake.svg" />
 </div>
 <br><br>
   
