@@ -18,7 +18,8 @@ jobs:
         uses: Platane/snk@master
         id: snake-gif
         with:
-          user: Eduardo-751
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
           svg_out_path: ./assets/github-contribution-grid-snake.svg
 
       - name: Push to GitHub
