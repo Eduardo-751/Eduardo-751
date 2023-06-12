@@ -13,7 +13,9 @@ jobs:
       - uses: actions/checkout@v2
       - uses: yoshi389111/github-profile-3d-contrib@0.6.0
         env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: ./assets/profile-3d-contrib/profile-night-view.svg
       - name: Commit & Push
         run: |
           git config user.name Eduardo-751
