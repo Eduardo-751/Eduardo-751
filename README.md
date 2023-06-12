@@ -8,10 +8,10 @@
     
 |  |  |  |
 |--|--|--|
-| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=Eduardo-751&show_icons=true&theme=onedark&include_all_commits=truelayout=compact) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-751&theme=onedark&layout=compact) |![GitHub Streak](https://streak-stats.demolab.com/?user=Eduardo-751&theme=onedark&layout=compact)
+| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=Eduardo-751&show_icons=true&theme=one_dark_pro&include_all_commits=truelayout=compact&hide_border) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-751&theme=one_dark_pro&layout=compact) |![GitHub Streak](https://streak-stats.demolab.com/?user=Eduardo-751&theme=one_dark_pro&layout=compact&hide_border=true)
 <br/>
   
-![trophy](https://github-profile-trophy.vercel.app/?username=Eduardo-751&theme=onedark&column=7)
+![trophy](https://github-profile-trophy.vercel.app/?username=Eduardo-751&theme=onedark&column=7&no-frame=true&margin-w=10)
 
 </div>
 <br><br>
@@ -20,11 +20,11 @@
 <br><div align=center>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Eduardo-751/Pokemon_Adventure" title="Pokemon Adventure"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-751&repo=Pokemon_Adventure&theme=onedark&border_radius=10"></a><a align="right" href="https://github.com/Eduardo-751/DriveMotors" title="Drive Motors"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-751&repo=DriveMotors&theme=onedark&border_radius=10"></a>
+  <a align="left" href="https://github.com/Eduardo-751/Pokemon_Adventure" title="Pokemon Adventure"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-751&repo=Pokemon_Adventure&theme=one_dark_pro&hide_border=true"></a><a align="right" href="https://github.com/Eduardo-751/DriveMotors" title="Drive Motors"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-751&repo=DriveMotors&theme=one_dark_pro&hide_border=true0"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Eduardo-751/Beecrowd" title="Beecrowd"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-751&repo=Beecrowd&theme=onedark&border_radius=10"></a><a align="right" href="https://github.com/Eduardo-751/HackerRank" title="Hacker Rank"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-751&repo=HackerRank&theme=onedark&border_radius=10"></a>
+  <a align="left" href="https://github.com/Eduardo-751/Beecrowd" title="Beecrowd"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-751&repo=Beecrowd&theme=one_dark_pro&hide_border=true"></a><a align="right" href="https://github.com/Eduardo-751/HackerRank" title="Hacker Rank"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-751&repo=HackerRank&theme=one_dark_pro&hide_border=true"></a>
 <br/><br/><br><br><br><br>
 
 <h4 align="center">
