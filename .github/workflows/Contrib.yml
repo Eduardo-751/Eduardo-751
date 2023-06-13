@@ -15,7 +15,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: ./assets/profile-3d-contrib/profile-night-view.svg
       - name: Commit & Push
         run: |
           git config user.name Eduardo-751
