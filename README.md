@@ -56,7 +56,7 @@
 <a href="https://www.linkedin.com/in/eduardo-camargo-054b3a1b9/ target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="contate.me/eduardo_camargo" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 <a href="https://www.beecrowd.com.br/judge/pt/profile/377804" target="_blank"><img src="https://img.shields.io/badge/-Beecrowd-883088?style=for-the-badge&logo=Beecrowd&logoColor=white" target="_blank"></a>
-<a href="https://www.hackerrank.com/edu_s_camargo97" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-101010?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a> 
-<a href="https://www.kaggle.com/eduardo751" target="_blank"><img src="https://img.shields.io/badge/Kaggle-0099B5?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
+<a href="https://www.hackerrank.com/edu_s_camargo97" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a> 
+<a href="https://www.kaggle.com/eduardo751" target="_blank"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" target="_blank"></a>
 </div>
 <br><br>
