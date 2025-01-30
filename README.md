@@ -8,16 +8,15 @@
     
 |  |  |  |
 |--|--|--|
-| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=Eduardo-751&show_icons=true&theme=one_dark_pro&include_all_commits=truelayout=compact&hide_border) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-751&theme=one_dark_pro&layout=compact) |![GitHub Streak](https://streak-stats.demolab.com/?user=Eduardo-751&theme=one_dark_pro&layout=compact&hide_border=true)
+| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=Eduardo-751&show_icons=true&theme=one_dark_pro&include_all_commits=truelayout=compact&hide_border) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-751&theme=one_dark_pro&layout=compact) |![GitHub Streak](https://streak-stats.demolab.com?user=Eduardo-751&theme=one-dark-pro&hide_border=true)
 </div>
 <br><br>
-
 
 <h2 align="center">🏆 Trophy 🏆</h2>
 <br><div align=center>
 <br>
   
-![trophy](https://github-profile-trophy.vercel.app/?username=Eduardo-751&theme=onedark&column=7&no-frame=true&margin-w=10)
+![trophy](https://github-profile-trophy.vercel.app/?username=Eduardo-751&theme=onedark&column=8&no-frame=true&margin-w=10)
 </div>
 <br><br>
   
