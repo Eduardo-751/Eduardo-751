@@ -24,7 +24,7 @@
 <br><div align=center>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Eduardo-751/Pokemon_Adventure" title="Pokemon Adventure"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-751&repo=Pokemon_Adventure&theme=one_dark_pro&hide_border=true"></a><a align="right" href="https://github.com/Eduardo-751/DriveMotors" title="Spotify Web"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-751&repo=spotify-web&theme=one_dark_pro&hide_border=true"></a>
+  <a align="left" href="https://github.com/Eduardo-751/Pokemon_Adventure" title="Pokemon Adventure"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-751&repo=Pokemon_Adventure&theme=one_dark_pro&hide_border=true"></a><a align="right" href="https://github.com/Eduardo-751/spotify-web" title="Spotify Web"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-751&repo=spotify-web&theme=one_dark_pro&hide_border=true"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
